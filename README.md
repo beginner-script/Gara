@@ -1,4 +1,3 @@
--- ScreenGui와 TextLabel
 local screenGui = Instance.new("ScreenGui", game.Players.LocalPlayer:WaitForChild("PlayerGui"))
 local textLabel = Instance.new("TextLabel", screenGui)
 
